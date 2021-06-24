@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>blanc &#8211; augure</title>
+	<atom:link href="http://localhost/wordpress/etiquette-produit/blanc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://augureparis.github.io</link>
+	<description>Un site utilisant WordPress</description>
+	<lastBuildDate>Mon, 21 Jun 2021 07:38:19 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://augureparis.github.io/wp-content/uploads/2021/04/cropped-AUGURE1_Plan-de-travail-1-32x32.png</url>
+	<title>blanc &#8211; augure</title>
+	<link>https://augureparis.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Le jour nuit</title>
+		<link>https://augureparis.github.io/produit/le-jour-nuit/</link>
+		
+		<dc:creator><![CDATA[augure]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2017 10:27:31 +0000</pubDate>
+				<guid isPermaLink="false">https://newnorth.fuelthemes.net/?post_type=product&#038;p=150</guid>
+
+					<description><![CDATA[<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+
+Une allure allongée pour enjamber vos journées. C'est la promesse de notre pantalon Jour Nuit qui prouve que l'élégance de la nuit s'accorde avec l'agilité du travail.
+
+</div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p><span class="markedContent"><span dir="ltr">Maille piqué 100% polyster recyclé 210GSM </span><span dir="ltr">et polyamide 55% nylon 14% résine 31% billes de verre </span></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>L’élégance confortable</title>
+		<link>https://augureparis.github.io/produit/lelegance-confortable/</link>
+					<comments>https://augureparis.github.io/produit/lelegance-confortable/#respond</comments>
+		
+		<dc:creator><![CDATA[augure]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2017 18:17:10 +0000</pubDate>
+				<guid isPermaLink="false">https://newnorth.fuelthemes.net/?post_type=product&#038;p=55</guid>
+
+					<description><![CDATA[Qui a dit que le confort ne s'allie pas avec l'extérieur ? Notre col large et souple vous permet d'adapter votre style pour chaque moment de la journée.]]></description>
+										<content:encoded><![CDATA[<p><span class="markedContent"><span dir="ltr">72% coton 27% polyester 1% polyamide </span><span dir="ltr">et mesh 97 % PET 3% EA 120GSM</span><span dir="ltr">Jersey 15% coton/85 % polyester 160GSM</span></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://augureparis.github.io/produit/lelegance-confortable/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
