@@ -1,0 +1,8 @@
+2021-06-20T12:08:19+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, null given, called in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php on line 51 and defined in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:72
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(51): Vc_Edit_Form_Fields->setSettings(NULL)
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(70): Vc_Edit_Form_Fields->__construct('psfw', Array)
+#2 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(292): Vc_Shortcode_Edit_Form->renderFields('')
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#4 /Applications/MAMP/htdocs/word dans /Applications/MAMP/htdocs/wordpress/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php à la ligne 72
+
