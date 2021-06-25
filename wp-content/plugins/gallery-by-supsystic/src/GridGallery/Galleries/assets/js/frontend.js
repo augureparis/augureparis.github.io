@@ -762,9 +762,9 @@
 					self.clearPopUpHash();
 				}
 			};
-			if(isLazyLoad) {
-				photoBoxConfig['thumbAttr'] = 'data-gg-real-image-href';
-			}
+			// if(isLazyLoad) {
+			// 	photoBoxConfig['thumbAttr'] = 'data-gg-real-image-href';
+			// }
 
 			this.$container.find('.grid-gallery-photos').off('click').photobox(photoBoxItemSelector, photoBoxConfig);
 
@@ -1971,15 +1971,15 @@
             url = location.href,
 			imageId = null;
 
-		if($element.attr('data-type') == 'link' || $element.attr('data-video-source') == 'youtube') {
-			if($img.length) {
-				if($img.attr('data-gg-real-image-href')) {
-					imgSrc = $img.attr('data-gg-real-image-href');
-				} else {
-					imgSrc = $img.attr('src');
-				}
-			}
-		}
+		// if($element.attr('data-type') == 'link' || $element.attr('data-video-source') == 'youtube') {
+		// 	if($img.length) {
+		// 		if($img.attr('data-gg-real-image-href')) {
+		// 			imgSrc = $img.attr('data-gg-real-image-href');
+		// 		} else {
+		// 			imgSrc = $img.attr('src');
+		// 		}
+		// 	}
+		// }
 
 		if($element && $element.attr('id') && $element.attr('id').split('-').pop()) {
 			imageId = $element.attr('id').split('-').pop();
